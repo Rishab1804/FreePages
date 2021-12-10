@@ -1,0 +1,41 @@
+Hello there,
+
+I am Rishabh Keshri the owner of the company pythonic bugs.
+We in pythonic bugs make beautiful and useful apps for you guys.
+
+We are here with a brand new app:-
+Free Ink Desktop
+
+This app as the name suggestes is a note-taking app.
+You can take some intresting notes with this app.
+
+How to use - 
+
+Step 1 - On your first time of app opening you will
+         recieve a screen of create account or login.
+	 If you are a new user, create a account in our app.
+
+Step 2 - When you are in create account page, type your 
+	 username and password and then press create account.
+	 Wait 1-2 second and if you are redirected to the 1st
+	 page, then your account is created, else it will show
+	 an error.
+
+Step 3 - Now after account creation login to your account and 
+         if everything is correct you will be redirected, else
+	 you will see an error.
+
+Step 4 - Now in the next screen you will see 7 buttons:-
+		1)Add Notes - Here you can add notes
+		2)Draw - Here you can draw and save.
+		3)View Notes - Here you can see all 
+			       the saved notes.
+		4)Manage Account - This is the page
+				   for account manage,
+				   change password and
+				   logout.
+		5)Logout - You can logout from your account.
+		6)About Me - You will be redirected to a 
+			     website, portfolio of owner.
+		7)About App - You will be redirected to a
+			      website, about app.
